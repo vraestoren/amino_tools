@@ -17,7 +17,7 @@ pkg update -y && pkg upgrade -y
 pkg install -y python git openssl
 
 # 3. Clone repository
-git clone https://github.com/dee-shar/amino_tools
+git clone https://github.com/vraestoren/amino_tools
 cd amino_tools
 
 # 4. Setup virtual environment
